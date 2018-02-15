@@ -2,3 +2,4 @@
 
 tata = 23
 tutu = 12
+resultat = tutu + tata
